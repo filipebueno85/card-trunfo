@@ -76,7 +76,7 @@ class Form extends React.Component {
             />
           </label>
           <label htmlFor="cardImage">
-            Imagem:
+            Link Imagem:
             <input
               data-testid="image-input"
               type="text"
