@@ -24,10 +24,13 @@ body {
   font-family: 'Wildcard', sans-serif;
   color: rgb(239, 177, 255);
   margin-bottom: 50px;
+  border-radius: 10px;
+  background-color: rgb(116, 45, 210, 0.3);
+  box-shadow: 2px 2px 2px 1px rgba(37, 1, 65, 0.6)
 }
 
 .header h1 {
-  box-shadow: 2px 2px 2px 1px rgba(37, 1, 65, 0.2);
+  /* box-shadow: 2px 2px 2px 1px rgba(37, 1, 65, 0.2); */
   font-size: 4em;
 }
 
@@ -133,7 +136,7 @@ img {
   align-items: baseline;
   border-radius: 10px;
   background-color: rgb(116, 45, 210, 0.3);
-  box-shadow: 2px 2px 2px 1px rgba(37, 1, 65, 0.6);
+  box-shadow: 2px 2px 2px 1px rgba(37, 1, 65, 0.6)
   }
 
 .card-preview {
@@ -217,3 +220,4 @@ input, textarea, select {
     margin-bottom: 10px;
     width: 500px;
   }
+  
